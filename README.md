@@ -49,6 +49,13 @@ Windows GPU版本v1.1.0（GPU）：
 > 
 > CPU: 支持AVX指令集
 
+### 安装环境
+
+1. git clone 该项目. 进入到项目目录下 运行 ```setup.bat``` (Windows) 或者 ```bash setup.sh``` (Linux) 安装环境
+2. 运行命令 ```python gui.py``` 或 ``` run_gui.bat ```  运行图形化界面
+
+### 手动安装环境
+
 #### 1. 下载安装Miniconda 
 
 - Windows: <a href="https://repo.anaconda.com/miniconda/Miniconda3-py38_4.11.0-Windows-x86_64.exe">Miniconda3-py38_4.11.0-Windows-x86_64.exe</a>
